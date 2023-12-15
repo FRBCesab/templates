@@ -1,6 +1,6 @@
 # README
 
-This folder contains of ready-to-use templates to set up [GitHub Issues](https://docs.github.com/en/actions). If you want to use these templates, store these `yaml` files in the folder `.github/workflows/`.
+This folder contains of ready-to-use templates to set up [GitHub Actions](https://docs.github.com/en/actions). If you want to use these templates, store these `yaml` files in the folder `.github/workflows/`.
 
 - [`pkgdown.yaml`](https://github.com/frbcesab/templates/tree/main/gh-actions/pkgdown.yaml): contains a GitHub action to build and deploy package website with `pkgdown`
 - [`R-CMD-check.yaml`](https://github.com/frbcesab/templates/tree/main/gh-actions/R-CMD-check.yaml): contains a GitHub action to check a package
