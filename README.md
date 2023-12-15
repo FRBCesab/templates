@@ -20,7 +20,7 @@
 
 ## Overview
 
-This repository contains different templates...
+This repository contains different templates to improve GitHub repositories for R users.
 
 
 
@@ -29,12 +29,14 @@ This repository contains different templates...
 This repository is structured as follow:
 
 - [`issues`](https://github.com/frbcesab/templates/tree/main/issues): contains examples of predefined [GitHub Issues](https://docs.github.com/en/issues/tracking-your-work-with-issues/about-issues)
+- [`gh-actions`](https://github.com/frbcesab/templates/tree/main/gh-actions): contains ready-to-use templates to set up [GitHub Actions](https://docs.github.com/en/actions)
+- [`logos`](https://github.com/frbcesab/templates/tree/main/logos): contains examples of logos for compendia and packages
 
 
 
 ## Installation
 
-To install this repo:
+To install this repository:
 
 - [Fork](https://docs.github.com/en/get-started/quickstart/contributing-to-projects) this repository using the GitHub interface.
 - [Clone](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository) your fork using `git clone fork-url` (replace `fork-url` by the URL of your fork).
@@ -45,7 +47,7 @@ To install this repo:
 
 Please use the following citation:
 
-> Casajus N. (2023) templates: A GitHub repository providing templates for R user. URL: <https://github.com/frbcesab/templates/>.
+> Casajus N. (2023) templates: A GitHub repository providing templates for R users. URL: <https://github.com/frbcesab/templates/>.
 
 
 
